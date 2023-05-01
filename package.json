@@ -1,6 +1,6 @@
 {
   "name": "tailone",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "description": "Tailwind One Page Template",
   "main": "gulpfile.js",
   "dependencies": {
