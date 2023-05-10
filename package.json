@@ -1,7 +1,7 @@
 {
-  "name": "tailone",
+  "name": "alkyllabs",
   "version": "1.0.2",
-  "description": "Tailwind One Page Template",
+  "description": "Alkyl Labs is a creative digital agency. We specialize in creating digital experiences for web and mobile that are unique, engaging, and results-focused.",
   "main": "gulpfile.js",
   "dependencies": {
     "@splidejs/splide": "^4.0.2",
