@@ -645,6 +645,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .h-full {
     height:100%;
 }
+.h-40 {
+    height:10rem;
+}
 .w-8 {
     width:2rem;
 }
@@ -971,6 +974,9 @@ Ensure the default browser behavior of the `hidden` attribute.
 .pl-8 {
     padding-left:2rem;
 }
+.pt-4 {
+    padding-top:1rem;
+}
 .text-left {
     text-align:left;
 }
@@ -1004,6 +1010,10 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-3xl {
     font-size:1.875rem;
     line-height:2.25rem;
+}
+.text-xs {
+    font-size:0.75rem;
+    line-height:1rem;
 }
 .font-bold {
     font-weight:700;
@@ -1092,6 +1102,26 @@ Ensure the default browser behavior of the `hidden` attribute.
 .text-red-600 {
     --tw-text-opacity:1;
     color:rgb(220 38 38 / var(--tw-text-opacity));
+}
+.text-cyan-400 {
+    --tw-text-opacity:1;
+    color:rgb(34 211 238 / var(--tw-text-opacity));
+}
+.text-cyan-500 {
+    --tw-text-opacity:1;
+    color:rgb(6 182 212 / var(--tw-text-opacity));
+}
+.text-orange-400 {
+    --tw-text-opacity:1;
+    color:rgb(251 146 60 / var(--tw-text-opacity));
+}
+.text-rose-400 {
+    --tw-text-opacity:1;
+    color:rgb(251 113 133 / var(--tw-text-opacity));
+}
+.text-rose-500 {
+    --tw-text-opacity:1;
+    color:rgb(244 63 94 / var(--tw-text-opacity));
 }
 .opacity-25 {
     opacity:0.25;
